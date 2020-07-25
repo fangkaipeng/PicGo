@@ -1,0 +1,3 @@
+# PicGo
+Token
+608af3604f3c99f06cc3f2bffd5845efcc93d199
